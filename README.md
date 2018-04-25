@@ -2,7 +2,7 @@
 
 This is a plugin for [Tiny-Tiny-RSS](http://tt-rss.org) web based news feed reader and aggregator.
 
-It adds a new API (getCompactHeadlines) to allow (faster) two-way synchronzation between an instance of TT-RSS and the [News+](http://github.com/noinnion/newsplus/) Android app.
+It adds a new API (getCompactHeadlines) to allow faster two-way synchronzation between an instance of TT-RSS and the [News+](http://github.com/noinnion/newsplus/) Android app or [Fiery Feeds](http://cocoacake.net/apps/fiery/) on iOS.
 
 The plugin requires (at least) version 1.8 of Tiny-Tiny-RSS.
 
